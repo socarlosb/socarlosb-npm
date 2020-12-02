@@ -16,10 +16,10 @@ const options = {
 // Text + chalk definitions
 const data = {
   name: chalk.white("               Carlos Barbosa"),
-  handle: chalk.white("socarlosb"),
+  handle: chalk.white("(socarlosb)"),
   work: chalk.white("Digital Consultant at Inova+ (PT)"),
   opensource: chalk.white("Enthusiast researcher!"),
-  motto: chalk.white("Beauty lies in the eyes of the beholder"),
+  motto: chalk.white('"Beauty lies in the eyes of the beholder"'),
   twitter: chalk.gray("https://twitter.com/") + chalk.blue("socarlosb"),
   npm: chalk.gray("https://npmjs.com/") + chalk.blue("~socarlosb"),
   github: chalk.gray("https://github.com/") + chalk.blue("socarlosb"),
