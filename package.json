@@ -1,6 +1,6 @@
 {
   "name": "socarlosb",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "description": "A personal card for Carlos Barbosa (@socarlosb)",
   "main": "/bin/card.js",
   "bin": {
@@ -8,10 +8,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/socarlosb/socarlosb.git"
+    "url": "https://github.com/socarlosb/socarlosb-npm.git"
   },
   "scripts": {
-    "prepublish": "npm run build",
+    "prepare": "npm run build",
     "build": "node build.js",
     "dev": "npm run build && node ./bin/card.js",
     "lint": "standard",
