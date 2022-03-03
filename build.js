@@ -17,7 +17,7 @@ const options = {
 const data = {
   name: chalk.white("               Carlos Barbosa"),
   handle: chalk.white("(socarlosb)"),
-  work: chalk.white("Digital Consultant at Inova+ (PT)"),
+  work: chalk.white("Software developer at InnovationCast"),
   opensource: chalk.white("Enthusiast researcher!"),
   motto: chalk.white('"Beauty lies in the eyes of the beholder"'),
   twitter: chalk.gray("https://twitter.com/") + chalk.blue("socarlosb"),
